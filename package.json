@@ -1,0 +1,41 @@
+{
+  "name": "wpnewtheme",
+  "description": "Создание новой пустой темы для WordPress",
+  "homepage": "https://github.com/htmlcssjspro/wp-new-theme#readme",
+  "repository": "github:htmlcssjspro/testing",
+  "version": "1.0.0",
+  "license": "GNU",
+  "author": "Sergei Tarasov aka MILITER",
+  "author-url": "https://htmlcssjs.pro",
+  "author-email": "master@htmlcssjs.pro",
+  "bugs": {
+    "url": "https://github.com/htmlcssjspro/wp-new-theme/issues"
+  },
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "autoprefixer": "^9.7.5",
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-js-import": "^1.0.6",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-glob": "^1.1.0",
+    "gulp-uglify-es": "^2.0.0",
+    "node-sass": "^4.13.1"
+  },
+  "dependencies": {
+    "gulp-rename": "^2.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "yargs": "^15.3.1"
+  },
+  "browserslist": [
+    "extends @wordpress/browserslist-config"
+  ],
+  "scripts": {
+    "wp-new-theme": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
