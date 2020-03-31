@@ -1,15 +1,15 @@
 {
   "name": "wpnewtheme",
   "description": "Создание новой пустой темы для WordPress",
-  "homepage": "https://github.com/htmlcssjspro/wp-new-theme#readme",
-  "repository": "github:htmlcssjspro/testing",
+  "homepage": "https://github.com/htmlcssjspro/WP-new-theme#readme",
+  "repository": "github:htmlcssjspro/WP-new-theme",
   "version": "1.0.0",
   "license": "GNU",
   "author": "Sergei Tarasov aka MILITER",
   "author-url": "https://htmlcssjs.pro",
   "author-email": "master@htmlcssjs.pro",
   "bugs": {
-    "url": "https://github.com/htmlcssjspro/wp-new-theme/issues"
+    "url": "https://github.com/htmlcssjspro/WP-new-theme/issues"
   },
   "main": "gulpfile.js",
   "devDependencies": {
